@@ -150,6 +150,14 @@ export class View extends Observer{
 
 Grâce à la vue et au controleur, on peut maintenant incrémenter et décrémenter la valeur du compteur en cliquant sur les boutons correspondants:
 
-![img.png](img.png)
+![img.png](src/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
+
+## CONCLUSION
+
+Ce TD nous a permis d'approfrondir nos connaisances sur le dernier cours à propos des classes.
+Le modèle MVC est un concept très important en programmation, il permet de séparer les différentes parties d'un programme pour une meilleure lisibilité et une meilleure maintenance.
+Nous avons pu voir comment implémenter ce modèle, avec une vue et un controleur en utilisant les classes ES6.
+Nous avons aussi pu voir comment utiliser les interfaces et les accesseurs en JavaScript.
+De bien comprendre le fonctionnement vue/controleur était un peu complexe mais s'avère très utile.
